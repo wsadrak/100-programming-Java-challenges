@@ -14,3 +14,5 @@
 - [Prime numbers from 1 to n](https://gist.github.com/wsadrak/fefd6e4dc9346c3fcecb203ff206476a) - program to display prime numbers from 1 to n (entered by user).
 
 - [Factorial using recursion](https://gist.github.com/wsadrak/60ab895c5a5f3d20ce8387241c44dc56) - program to calculate factorial of a given number using recursion
+
+- [Leap year](https://gist.github.com/wsadrak/29a53f5b1050330d77983f1e304aa62c) - program to check whether the input year is a leap year or not
