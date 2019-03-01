@@ -16,3 +16,5 @@
 - [Factorial using recursion](https://gist.github.com/wsadrak/60ab895c5a5f3d20ce8387241c44dc56) - program to calculate factorial of a given number using recursion
 
 - [Leap year](https://gist.github.com/wsadrak/29a53f5b1050330d77983f1e304aa62c) - program to check whether the input year is a leap year or not
+
+- [Floyd's triangle](https://gist.github.com/wsadrak/0034614685009b7145024e91d4d8c592) - program to print the Floyd’s triangle based on user's input (number of rows)
