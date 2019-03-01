@@ -19,4 +19,4 @@
 
 - [Floyd's triangle](https://gist.github.com/wsadrak/0034614685009b7145024e91d4d8c592) - program to print the Floyd’s triangle based on user's input (number of rows)
 
--[Duplicate characters in string](https://gist.github.com/wsadrak/94c257e521c8812c6c20880be30456bd) - program to find out duplicate or repeated characters in a string, and calculate the count of repeatation.
+- [Duplicate characters in string](https://gist.github.com/wsadrak/94c257e521c8812c6c20880be30456bd) - program to find out duplicate or repeated characters in a string, and calculate the count of repeatation.
