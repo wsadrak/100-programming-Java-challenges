@@ -22,3 +22,5 @@
 - [Duplicate characters in string](https://gist.github.com/wsadrak/94c257e521c8812c6c20880be30456bd) - program to find out duplicate or repeated characters in a string, and calculate the count of repeatation.
 
 - [Perfect number](https://gist.github.com/wsadrak/d5738d7e473f309c02244bf78ff35ac1) -  program to find perfect number or not.
+
+- [Fibonacci sequence](https://gist.github.com/wsadrak/f688456a4689c65bd25b6b4d67119a58) - a program to print fibonacci series.
