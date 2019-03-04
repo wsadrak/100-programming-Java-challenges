@@ -24,3 +24,5 @@
 - [Perfect number](https://gist.github.com/wsadrak/d5738d7e473f309c02244bf78ff35ac1) -  program to find perfect number or not.
 
 - [Fibonacci sequence](https://gist.github.com/wsadrak/f688456a4689c65bd25b6b4d67119a58) - a program to print fibonacci series.
+
+- [Bubble Sort](https://gist.github.com/wsadrak/b6df6af0f3321ee844398c7105429595) - program to sort array elements using Bubble Sort. 
