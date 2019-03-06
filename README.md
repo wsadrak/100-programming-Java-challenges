@@ -28,3 +28,5 @@
 - [Bubble Sort](https://gist.github.com/wsadrak/b6df6af0f3321ee844398c7105429595) - program to sort array elements using Bubble Sort. 
 
 - [Common integers between two arrays](https://gist.github.com/wsadrak/00df41043e7002d0c189a7662d8bdc4c) - simple program to find common integers between two sorted arrays.
+
+- [Middle index in array](https://gist.github.com/wsadrak/f17b1dd2ddf1f2164fa5f761644b7d89) - program to find out the array index or position, where sum of numbers preceeding the index is equals to sum of numbers succeeding the index.
