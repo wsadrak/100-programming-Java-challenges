@@ -26,3 +26,5 @@
 - [Fibonacci sequence](https://gist.github.com/wsadrak/f688456a4689c65bd25b6b4d67119a58) - a program to print fibonacci series.
 
 - [Bubble Sort](https://gist.github.com/wsadrak/b6df6af0f3321ee844398c7105429595) - program to sort array elements using Bubble Sort. 
+
+- [Common integers between two arrays](https://gist.github.com/wsadrak/00df41043e7002d0c189a7662d8bdc4c) - simple program to find common integers between two sorted arrays.
