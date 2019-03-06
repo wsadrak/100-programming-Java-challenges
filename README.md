@@ -30,3 +30,5 @@
 - [Common integers between two arrays](https://gist.github.com/wsadrak/00df41043e7002d0c189a7662d8bdc4c) - simple program to find common integers between two sorted arrays.
 
 - [Middle index in array](https://gist.github.com/wsadrak/f17b1dd2ddf1f2164fa5f761644b7d89) - program to find out the array index or position, where sum of numbers preceeding the index is equals to sum of numbers succeeding the index.
+
+- [Top Ten repeated words from file](https://gist.github.com/wsadrak/d1f55f8d2bef05a6426e2c93a9df81d2) - program to read words from a file, count the repeated or duplicated words, sort it by maximum repeated or duplicated word count and limit to 10.
