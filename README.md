@@ -37,3 +37,5 @@ ________________________________________________________________________________
 14. [Middle index in array](https://gist.github.com/wsadrak/f17b1dd2ddf1f2164fa5f761644b7d89) - program to find out the array index or position, where sum of numbers preceeding the index is equals to sum of numbers succeeding the index.
 
 15. [Top Ten repeated words from file](https://gist.github.com/wsadrak/d1f55f8d2bef05a6426e2c93a9df81d2) - program to read words from a file, count the repeated or duplicated words, sort it by maximum repeated or duplicated word count and limit to 10.
+
+16. [Reverse String using recursion](https://gist.github.com/wsadrak/a7eedb156c354b82bb94fda8ac541114) - program to reverse string using recursion
