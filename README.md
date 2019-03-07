@@ -39,3 +39,5 @@ ________________________________________________________________________________
 15. [Top Ten repeated words from file](https://gist.github.com/wsadrak/d1f55f8d2bef05a6426e2c93a9df81d2) - program to read words from a file, count the repeated or duplicated words, sort it by maximum repeated or duplicated word count and limit to 10.
 
 16. [Reverse String using recursion](https://gist.github.com/wsadrak/a7eedb156c354b82bb94fda8ac541114) - program to reverse string using recursion
+
+17. [Palindrome using recursion](https://gist.github.com/wsadrak/ab50846f72aa0c66be9aee248454fa79) - program to check whether String is palindrome using recursion
