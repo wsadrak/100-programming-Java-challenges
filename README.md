@@ -1,4 +1,4 @@
-# Small programs in Java
+# 100 programming challenges
 
 
 In this section I'm collecting simple programs that I write while learning Core Java. This page includes challenges on various java topics such as control statements, loops, classes & objects, functions, arrays, algoritms etc.
@@ -6,6 +6,7 @@ In this section I'm collecting simple programs that I write while learning Core 
 
 My goal is to face as many problems as possible, before trying to create larger applications.
 
+___________________________________________________________________________________________________
 
 1. [ArrayList implementation](https://gist.github.com/wsadrak/bc376ccf4171e731563450a1ff437d5e) - my own implementation of ArrayList class. It contains add(), get(), remove(), size() methods and use dynamic array logic - it increases its size when it reaches threshold.
 
