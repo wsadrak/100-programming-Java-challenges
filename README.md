@@ -1,7 +1,7 @@
 # 100 programming challenges
 
 
-In this section I'm collecting simple programs that I write while learning Core Java. This page includes challenges on various java topics such as control statements, loops, classes & objects, functions, arrays, algoritms etc.
+In this section I'm collecting simple programs that I write while learning Core Java. This page includes challenges on various Java topics such as control statements, loops, classes & objects, functions, arrays, alghoritms etc.
 
 
 My goal is to face as many problems as possible, before trying to create larger applications.
