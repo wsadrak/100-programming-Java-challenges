@@ -47,3 +47,5 @@ ________________________________________________________________________________
 19. [Reverse words in String](https://gist.github.com/wsadrak/a792c298392a3ef6252d4ac87229b106) - program to reverse every word of a string and display the reversed string as an output.
 
 20. [Factorial using loops](https://gist.github.com/wsadrak/700b8285bb753e787da8bde8f794fc38) - program tof ind Factorial using For and While loop
+
+21. [Sort array](https://gist.github.com/wsadrak/35efae6fe73d4c43b012cc6dd7607faa) - program to sort an array in ascending and descending order
