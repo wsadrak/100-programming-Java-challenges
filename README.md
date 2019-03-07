@@ -43,3 +43,5 @@ ________________________________________________________________________________
 17. [Palindrome using recursion](https://gist.github.com/wsadrak/ab50846f72aa0c66be9aee248454fa79) - program to check whether String is palindrome using recursion
 
 18. [Reverse array](https://gist.github.com/wsadrak/5a14f1ffaa9b193012467525afc5fcfc) - program to program reverse the array. For example if user enters the array elements as 1, 2, 3, 4, 5 then the program would reverse the array and the elements of array would be 5, 4, 3, 2, 1. 
+
+19. [](https://gist.github.com/wsadrak/a792c298392a3ef6252d4ac87229b106) - program to reverse every word of a string and display the reversed string as an output.
