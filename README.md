@@ -45,3 +45,5 @@ ________________________________________________________________________________
 18. [Reverse array](https://gist.github.com/wsadrak/5a14f1ffaa9b193012467525afc5fcfc) - program to program reverse the array. For example if user enters the array elements as 1, 2, 3, 4, 5 then the program would reverse the array and the elements of array would be 5, 4, 3, 2, 1. 
 
 19. [Reverse words in String](https://gist.github.com/wsadrak/a792c298392a3ef6252d4ac87229b106) - program to reverse every word of a string and display the reversed string as an output.
+
+20. [Factorial using loops](https://gist.github.com/wsadrak/700b8285bb753e787da8bde8f794fc38) - program tof ind Factorial using For and While loop
