@@ -51,3 +51,5 @@ ________________________________________________________________________________
 21. [Sort array](https://gist.github.com/wsadrak/35efae6fe73d4c43b012cc6dd7607faa) - program to sort an array in ascending and descending order
 
 22. [Armstrong number](https://gist.github.com/wsadrak/3d652567da57f036d8e3ddae17cbd46c) - my implementation of code to print all Armstrong numbers for given range
+
+23. [Reverse number](https://gist.github.com/wsadrak/0eee9810285a234203441165dc03dc41) -  a program to reverse a number entered by user, using numeric operations.
