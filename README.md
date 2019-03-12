@@ -54,4 +54,6 @@ ________________________________________________________________________________
 
 23. [Reverse number](https://gist.github.com/wsadrak/0eee9810285a234203441165dc03dc41) -  a program to reverse a number entered by user, using numeric operations.
 
-24. [Integer palindrome](https://gist.github.com/wsadrak/f34088e04adf36f6ae44a4b18eb5175d) - a program to check entered number is palindrome or not
+24. [Integer palindrome](https://gist.github.com/wsadrak/f34088e04adf36f6ae44a4b18eb5175d) - a program to check entered number is palindrome or not.
+
+25. [Pyramid pattern](https://gist.github.com/wsadrak/a22b6c5a5b3f13cef1290c088f468658) - a program to print pyramid pattern and pyramid of numbers using height entered by user.
