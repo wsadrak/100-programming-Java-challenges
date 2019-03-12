@@ -53,3 +53,5 @@ ________________________________________________________________________________
 22. [Armstrong number](https://gist.github.com/wsadrak/3d652567da57f036d8e3ddae17cbd46c) - my implementation of code to print all Armstrong numbers for given range
 
 23. [Reverse number](https://gist.github.com/wsadrak/0eee9810285a234203441165dc03dc41) -  a program to reverse a number entered by user, using numeric operations.
+
+24. [Integer palindrome](https://gist.github.com/wsadrak/f34088e04adf36f6ae44a4b18eb5175d) - a program to check entered number is palindrome or not
